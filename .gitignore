@@ -58,3 +58,6 @@ target/
 
 # ipy
 .ipynb_checkpoints/
+
+# misc
+api_info
